@@ -10,7 +10,7 @@ def multiplicacion(a, b):
 
 def suma(a, b):
     """Suma dos números."""
-    return a + b
+    return a - b
 
 
 def division(a, b):
